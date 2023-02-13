@@ -1,6 +1,6 @@
 # PyChain Ledger
 
-![alt=""](Images/application-image.png)
+!(Images/application-image.png)
 
 In this challenge, I build a blockchain-based ledger system, complete with a user-friendly web interface. The blockchain has transactions features (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
