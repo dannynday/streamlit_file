@@ -77,3 +77,7 @@ But if use terminal, then this are the steps :
 
 4. Verify the block contents and hashes in the Streamlit dropdown menu. 
 
+
+
+![Alt=](pychain.png.png) 
+
